@@ -44,6 +44,7 @@ Sorcero utilizes language intelligence, which provides pipelines for the ingesti
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+
 Sorcero, Inc. is in the InsurTech industry. Insurtech, a combination of the words “insurance” and “technology”, refers to the use of technology innovations designed to squeeze out savings and efficiency from current insurance industry models.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
